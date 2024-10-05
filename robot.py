@@ -3,6 +3,8 @@ import commands2
 
 # This Imports Files. Required for referencing. 
 
+# Note: 
+# This file takes assembled logic from RobotContainer and puts it in coresponding systems. 
 
 class MyRobot(wpilib.TimedRobot):
     def robotInit(self):
